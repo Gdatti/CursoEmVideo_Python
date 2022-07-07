@@ -1,4 +1,5 @@
-# CursoEmVideo
+<<<<<<< HEAD
+# Meus Exercicios do Curso Em Video
  Exercicios de Python do Curso Em Video realizados por Guilherme Datti.
 
 ~~~~~~~~~~~~~~
