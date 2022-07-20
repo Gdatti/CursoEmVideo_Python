@@ -1,5 +1,5 @@
-# Meus Exercicios do Curso Em Video
- Exercicios de Python do Curso Em Video realizados por Guilherme Datti.
+# Meus Exercicios do 'Curso Em Video' em Python
+ Exercicios de Python do 'Curso Em Video' realizados por Guilherme Datti.
 
 ~~~
 PT:
